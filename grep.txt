@@ -2,3 +2,4 @@ grep "agujero" anillo.txt
  grep -i "idem" anillo.txt
  grep -w "anillo" anillo.txt
  grep -v -n  "anillo" anillo.txt
+  grep -a "Frodo" anillo.txt
