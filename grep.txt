@@ -7,3 +7,4 @@ grep "agujero" anillo.txt
    grep "ue" anillo.txt
    grep -b2 "elfo" Anillo.txt
    grep -a1 "compañia" Anillo.txt
+   grep -e "Gandalf" -e "Gris" Anillo.txt
