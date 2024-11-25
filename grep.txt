@@ -1,1 +1,2 @@
 grep "agujero" anillo.txt
+ grep -i "idem" anillo.txt
